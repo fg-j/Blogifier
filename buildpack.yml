@@ -1,0 +1,4 @@
+---
+dotnet-build:
+  project-path: "src/Blogifier"
+
